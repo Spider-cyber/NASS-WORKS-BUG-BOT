@@ -10,28 +10,28 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2347069096801"
-global.ownername = "🦄 NASS-WORKS"
-global.ytname = "YT: NASSWORKS"
-global.socialm = "Github: NASS-WORKS"
-global.location = "NIGERIA,FCT"
+global.ownernomer = "919863831837"
+global.ownername = "🦄 DGspider"
+global.ytname = "YT: DGspider"
+global.socialm = "Github: spider-cyber"
+global.location = "Aizawl,mizoram"
 
-global.ownernumber = '2347069096801'  //creator number
-global.ownername = 'NASS-WORKS' //owner name
-global.botname = 'BOT:ⁿNASS-WORKS' //name of the bot
+global.ownernumber = '919863831837'  //creator number
+global.ownername = 'DGspider' //owner name
+global.botname = 'BOT:DGspider' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'NASS-WORKS\n\nContact: +2347069096801'
+global.author = 'DGspider\n\nContact: +919863831837'
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "NASS-WORKS Bot Inc."
+global.wm = "DGspider Bot Inc."
 
 //theme link
-global.link = 'wa.me//2347069096801'
+global.link = 'wa.me//919863831837'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = ['.','!','.','#','&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
